@@ -34,6 +34,7 @@ app.filter('attachmentFilter', function() {
 				}
 			}
 		});
+		return out;
 	}
 });
 
